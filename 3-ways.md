@@ -1,6 +1,6 @@
-[The First Way](./1st-way.md):  Systems Thinking
-[The Second Way](2nd-way.md):  Amplify Feedback Loops
-[The Third Way](3rd-way.md):  Culture of Continual Experimentation and Learning
+* [The First Way](./1st-way.md):  Systems Thinking
+* [The Second Way](2nd-way.md):  Amplify Feedback Loops
+* [The Third Way](3rd-way.md):  Culture of Continual Experimentation and Learning
 
 src:  https://itrevolution.com/the-three-ways-principles-underpinning-devops/
 
