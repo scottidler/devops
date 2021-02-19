@@ -7,4 +7,4 @@ The outcomes of the Second Way include understanding and responding to all custo
 src:  https://itrevolution.com/the-three-ways-principles-underpinning-devops/
 
 
-<[prev(1st-way.md)]|(next(3rd-way.md))>
+<[prev](1st-way.md)|[next](3rd-way.md)>

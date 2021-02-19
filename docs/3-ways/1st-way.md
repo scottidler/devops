@@ -8,4 +8,4 @@ The outcomes of putting the First Way into practice include never passing a know
 
 src:  https://itrevolution.com/the-three-ways-principles-underpinning-devops/
 
-<[prev(3rd-way.md)]|(next(2nd-way.md))>
+<[prev](3rd-way.md)|[next](2nd-way.md)>

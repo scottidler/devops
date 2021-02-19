@@ -8,4 +8,4 @@ The outcomes of the Third Way include allocating time for the improvement of dai
 
 src:  https://itrevolution.com/the-three-ways-principles-underpinning-devops/
 
-<[prev(2nd-way.md)]|(next(1st-way.md))>
+<[prev](2nd-way.md)|[next](1st-way.md)>
