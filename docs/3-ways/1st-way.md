@@ -7,3 +7,5 @@ The focus is on all business value streams that are enabled by IT. In other word
 The outcomes of putting the First Way into practice include never passing a known defect to downstream work centers, never allowing local optimization to create global degradation, always seeking to increase flow, and always seeking to achieve profound understanding of the system (as per Deming).
 
 src:  https://itrevolution.com/the-three-ways-principles-underpinning-devops/
+
+<[prev(3rd-way.md)]|(next(2nd-way.md))>

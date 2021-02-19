@@ -7,3 +7,5 @@ We need both of these equally. Experimentation and taking risks are what ensures
 The outcomes of the Third Way include allocating time for the improvement of daily work, creating rituals that reward the team for taking risks, and introducing faults into the system to increase resilience.
 
 src:  https://itrevolution.com/the-three-ways-principles-underpinning-devops/
+
+<[prev(2nd-way.md)]|(next(1st-way.md))>
