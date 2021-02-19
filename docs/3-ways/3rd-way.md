@@ -1,4 +1,4 @@
-![3rd-way](images/3rd-way.png)
+![3rd-way](../../images/3rd-way.png)
 
 The Third Way is about creating a culture that fosters two things: continual experimentation, taking risks and learning from failure; and understanding that repetition and practice is the prerequisite to mastery.
 

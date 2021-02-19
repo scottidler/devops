@@ -1,4 +1,4 @@
-![1st-way](images/1st-way.png)
+![1st-way](../../images/1st-way.png)
 
 The First Way emphasizes the performance of the entire system, as opposed to the performance of a specific silo of work or department — this as can be as large a division (e.g., Development or IT Operations) or as small as an individual contributor (e.g., a developer, system administrator).
 
