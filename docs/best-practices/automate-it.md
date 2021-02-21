@@ -7,7 +7,7 @@ With all the processes, functions and tasks we do, there are too many opportunit
 ## Implication
 Engineers will have to be careful to make sure the process is a good candidate for automation prior to beginning work. With all of the automation being written all of the time, it will be important to have approved programming languages, coding standards, code reviews and testing. This will also move the engineer's thought process to higher level, considering the best ways to automate our important processes.
 ## Principles
-* [Automated](../design-principles/automate.md) because this all about automating IT.
+* [Automated](../design-principles/automated.md) because this all about automating IT.
 * [Readable](../design-principles/readable.md) because well written code can be some of the best explanations and documentation of a process.
 * [Measurable](../design-principles/measureable.md) because it is relatively easy to instrument code once you have automated a process to get good metrics.
 * [Self-service](../design-principles/self-service.md) because we can take our automation to the next level by making the most important self-service enabled.

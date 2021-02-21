@@ -8,7 +8,7 @@ Simple architectures, with standardized interfaces can be composed together whic
 Most engineering organizations already have lots of technologies which are not built with this principle in mind.  Engineers should look for opportunities to either migrate existing technologies or decommission older technologies and replace with newer ones following this principle.
 ## Principles
 * [Readable](../design-principles/readable.md) because the individual pieces are simple and easier to understand.
-* [Automated](../design-principles/automate.md) because all of these architectures are automated processes that work together to deliver a desired result.
+* [Automated](../design-principles/automated.md) because all of these architectures are automated processes that work together to deliver a desired result.
 * [Collaborative](../design-priciples/collaborative.md) because many teams will be working on each of these parts and collaborating to get them to work together.
 ## References
 * https://en.wikipedia.org/wiki/Composability

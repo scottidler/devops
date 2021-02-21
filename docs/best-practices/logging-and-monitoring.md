@@ -8,7 +8,7 @@ During failures and outages it is common that looking through logs is the only w
 An engineering organization will invest in setting up comprehensive logging across all production systems as well as monitoring to record events and performance. Doing so will provide the tools necessary to respond quickly to events and even prevent some as well.
 ## Principles
 * [Readable](../design-principles/readable.md) because the logging and monitoring need to be clear and communicate the current state of an application or process.
-* [Automated](../design-principles/automate.md) because the sheer volume of data and the frequency it is harvested at requires automation.
+* [Automated](../design-principles/automated.md) because the sheer volume of data and the frequency it is harvested at requires automation.
 * [Self-service](../design-principles/self-service.md) because a lot of these product allow the user to create and save queries to get at their data even quicker.
 ## References
 * http://devopsflowmetrics.org/
