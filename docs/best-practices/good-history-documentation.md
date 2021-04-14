@@ -2,28 +2,27 @@
 ![good-history-documentation](../../images/good-history-documentation.jpg)
 
 ## Description
-An engineering organization will avoid shortcuts that create technical debt, invest time to clean it up, and practice stewardship of machines, repositories, and source code.
+Engineers should leave good history and documentation via commit message, bug descriptions and comments, and all forms of documentation.
 
 ## Rationale
-Even the most mature organizations will generate tech debt as the systems they setup and code they write ages.  Eventually new directions or features will put stress on these systems.  Additionally, sometimes shortcuts are taken that generate even more tech debt.  The goal should be then to constantly be paying down this debt because it will inevitably accrue over time.
+Technical work on systems, or in code can be complex.  It is important to leave a good written history for the next person to understand what has been, what has been changed.  This will promote understanding within the organization, velocity to make future changes, and mitigate risks of making mistakes due to lack of understanding.  Similar care should be given to comments in work tracking tools like Bugzilla, JIRA or Trello.  In addition documentation should be written for any somewhat complex system and kept up to date as the project morphs and changes over time.
 
 ## Implication
-An engineering organization will plan for and allocate time for engineers to pay down tech debt.  Individuals should practice the Boy Scout Rule and "always leave it cleaner than you found it."  Engineers should resist the temptation to take shortcuts that will generate tech debt.  If a short cut is taken, and follow up should be filed to address that issue in the near term.
+Mozilla engineers should leave good, detailed commit messages that tell the story of the change.  Sometimes in the course of fixing or developing something a series of poorly crafted commits and messages are created.  These should be cleaned up via rebase prior to being pushed to a public branch like master.
 
 ## Principles
-* [Readable](../design-principles/readable.md) because a system is more clear and easy to understand if tech debt is cleaned up.
-* [Culture](../design-principles/culture.md) because to fight tech debt take a culture and commitment from the entire organization.
-* [Collaborative](../design-principles/collaborative.md) because it is all about working together and collaborating and fighting tech debt is a collaborative effort.
-* [Measurable](../design-principles/measureable.md) because it is possible to measure technical debt and keep metrics to stay informed.
+* [Readable](../design-principles/readable.md) because good history and documentation is read far more often than it is written and needs to convey meaning quickly and clearly.
+* [Collaborative](../design-principles/collaborative.md) because many will read each other's history and documentation and want to understand what matters and what changed and why.
 
 ## References
-* https://en.wikipedia.org/wiki/Technical_debt
-* http://www.informit.com/articles/article.aspx?p=1235624&seqNum=6
-* http://cleancoder.com/
-* http://programmer.97things.oreilly.com/wiki/index.php/The_Boy_Scout_Rule
-* http://deloitte.wsj.com/cio/2015/01/21/how-to-calculate-technical-debt/
+* https://chris.beams.io/posts/git-commit/
+* http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/
+* http://www.softwaretestinghelp.com/how-to-write-good-bug-report/
+* https://en.wikipedia.org/wiki/Rosetta_Stone
 
 ## Examples
-* Examples
+* Good comments in Bugzilla, Trello, etc.
+* Good commit messages in Git, SVN, etc.
+* Up to date documentation on a wiki.
 
 <[prev](fight-tech-debt.md)|[next](prefer-open-source.md)>
